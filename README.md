@@ -14,3 +14,7 @@ For developers, entrepreneurs, and small business owners, this article serves as
 ---
 
 Feel free to fork this repository and contribute if you’d like! 😊
+
+
+### Comment from Feiluan
+My friend had tried the cloud hosting of our coctrpg dice and it was quite convinent for us to enjoy the service! Although I haven't tried this kind of hosting service before but I would like to have a try in the future. However I think the price of hosting is still a problem and we have already cancel the hosting of our dice, but this will surely be a better idea than local host.
